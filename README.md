@@ -23,7 +23,7 @@ A Flutter application demonstrating efficient local data storage using **Hive**.
 
 | Add Items | List View |
 |-----------|-----------|
-| <img src="assets/screenshots/add_item.png" width="300"> | <img src="assets/screenshots/list_view.png" width="300"> |
+| <img src="https://github.com/kamrul-CSE-official/flutter_hive/blob/main/lib/assets/images/1.png?raw=true" width="300"> | <img src="https://github.com/kamrul-CSE-official/flutter_hive/blob/main/lib/assets/images/2.png?raw=true" width="300"> |
 
 ---
 
