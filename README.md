@@ -25,18 +25,6 @@ A Flutter application demonstrating efficient local data storage using **Hive**.
 |-----------|-----------|
 | <img src="https://github.com/kamrul-CSE-official/flutter_hive/blob/main/lib/assets/images/1.png?raw=true" width="300"> | <img src="https://github.com/kamrul-CSE-official/flutter_hive/blob/main/lib/assets/images/2.png?raw=true" width="300"> |
 
----
-
-## 🏗️ Project Structure
-ib/
-├── main.dart # App entry point & Hive initialization
-├── screens/
-│ └── home_screen.dart # Main screen with input & list view
-└── widgets/
-└── item_tile.dart # Reusable item display widget
-
-
----
 
 ## 🚀 Getting Started
 
