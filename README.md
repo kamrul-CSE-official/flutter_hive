@@ -64,14 +64,13 @@ ib/
   hive_flutter: ^1.1.0
 
 
- ** 👨‍💻 Author **
- MD. Kamrul Hasan
+ ## 👨‍💻 Author
+ # MD. Kamrul Hasan
 
 🎓 B.Sc in CSE — Port City International University
 
 💻 Passionate Flutter & Full-Stack Developer
 
-🌐 GitHub Profile
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
